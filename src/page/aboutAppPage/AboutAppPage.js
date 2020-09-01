@@ -126,6 +126,7 @@ const AboutAppPage = ({ theme }) => {
         <b> &apos;Dev Incubator Management System&apos;</b> project or more briefly is <b>DIMS</b>! From this moment,
         you are a member of a great development team. Happy code!
       </p>
+
       <h3>What is the DIMS?</h3>
       <p>
         In the few words, it is a system for getting tasks and tracking time. There are several user roles in the DIMS:

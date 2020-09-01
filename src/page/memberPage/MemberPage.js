@@ -242,6 +242,8 @@ class MemberPage extends Component {
     this.handleSelect(event, controlName);
   };
 
+  onHandlelSelect = (controlName) => (event) => this.handleSelect(event, controlName);
+
   handleSelect = ({ target }) => {
     const {
       member,

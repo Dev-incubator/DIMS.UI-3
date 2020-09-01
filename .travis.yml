@@ -3,11 +3,11 @@ language:
 node_js:
   - stable
 cache:
-  directories:
-    - node_modules
+  directories: 
+   - node_modules
 branches:
   - master
-otifications:
+notifications:
   email:
     recipients:
       - hincubator@gmail.com

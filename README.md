@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to dev-incubator-management-system 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="Components description:" target="_blank">
+  <a href="https://github.com/DzmitryI/DIMS.UI-3#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://github.com/DzmitryI/DIMS.UI-3/graphs/commit-activity" target="_blank">
@@ -11,6 +11,10 @@
     <img alt="License: MIT" src="https://img.shields.io/github/license/DzmitryI/dev-incubator-management-system" />
   </a>
 </p>
+
+[![Build Status](https://travis-ci.org/Dev-incubator/DIMS.UI-3.svg?branch=master)](https://travis-ci.org/Dev-incubator/DIMS.UI-3)
+[![Coverage Status](https://coveralls.io/repos/github/Dev-incubator/DIMS.UI-3/badge.svg?branch=master)](https://coveralls.io/github/Dev-incubator/DIMS.UI-3?branch=master)
+
 
 > It is a system for getting tasks and tracking time.
 
